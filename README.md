@@ -23,7 +23,7 @@ Welcome to our Programming Books and Notes Store project repository! This projec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/programming-books-store.git
+   git clone https://github.com/Arjunsehgal27/Bookify-MERN-Stack-.git
    ```
 
 2. Install dependencies:
